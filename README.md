@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 ## String
 |  |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
