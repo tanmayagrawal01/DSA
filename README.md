@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/tanmayagrawal01/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## String
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/tanmayagrawal01/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Math
 |  |
 | ------- |
