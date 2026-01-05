@@ -8,12 +8,15 @@ class Solution {
     }
     public int[] check(int num){
         int ans[]=new int[2];
-        for(int i=1;i*i<=num;i++){
+        for(int i=(int)Math.sqrt(num);i>=1;i--){
             if(num%i==0){
                 ans[0]=i;
                 ans[1]=num/i;
+                return ans;
             }
         }
+        ans[0]=1;
+        ans[1]=num;
         return ans;
     }
 }
