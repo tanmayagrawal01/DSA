@@ -4,16 +4,19 @@ class Solution {
         for(int i:nums){
             int cnt=0;
             int s=0;
-            for(int j=2;j<i;j++){
+            for(int j=1;j*j<=i;j++){
                 if(i%j==0){
+                    int a=i/j;
                     cnt++;
                     s+=j;
+                    if(a!=j){
+                        cnt++;
+                        s+=a;
+                    }
                 }
-                if(cnt>2) break;
+                if(cnt>4) break;
             }
-            if(cnt==2){
-                sum+=(s+1+i);
-            }
+            if(cnt==4) sum+=s;
         }
         return sum;
     }
