@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/tanmayagrawal01/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0670-maximum-swap](https://github.com/tanmayagrawal01/DSA/tree/master/0670-maximum-swap) |
 | [1362-closest-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/tanmayagrawal01/DSA/tree/master/0670-maximum-swap) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
