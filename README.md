@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/tanmayagrawal01/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanmayagrawal01/DSA/tree/master/0583-delete-operation-for-two-strings) |
 ## Divide and Conquer
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmayagrawal01/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Two Pointers
 |  |
