@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/tanmayagrawal01/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/tanmayagrawal01/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/tanmayagrawal01/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
