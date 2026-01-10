@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/tanmayagrawal01/DSA/tree/master/0686-repeated-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1138-alphabet-board-path](https://github.com/tanmayagrawal01/DSA/tree/master/1138-alphabet-board-path) |
+| [1143-longest-common-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 ## String Matching
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanmayagrawal01/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
