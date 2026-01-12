@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/tanmayagrawal01/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/tanmayagrawal01/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
