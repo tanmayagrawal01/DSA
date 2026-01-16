@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tanmayagrawal01/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tanmayagrawal01/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tanmayagrawal01/DSA/tree/master/0050-powx-n) |
@@ -141,5 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tanmayagrawal01/DSA/tree/master/0050-powx-n) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
