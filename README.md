@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tanmayagrawal01/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/tanmayagrawal01/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
