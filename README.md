@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-closest-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1362-closest-divisors) |
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayagrawal01/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/0002-add-two-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
