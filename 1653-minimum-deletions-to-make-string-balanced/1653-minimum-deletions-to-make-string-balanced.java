@@ -1,14 +1,14 @@
 class Solution {
     public int minimumDeletions(String s) {
-    Stack<Character> st = new Stack<>();
+    int cnt=0;
     int c= 0;
     for(int i = s.length()-1;i>=0;i--){
         if(s.charAt(i)=='a'){
-            st.push('a');
+            cnt++;
         }
         else{
-            if(st.size()>0){
-                st.pop();
+            if(cnt>0){
+                cnt--;
                 c++;
             }
         }
