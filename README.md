@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tanmayagrawal01/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1881-maximum-value-after-insertion](https://github.com/tanmayagrawal01/DSA/tree/master/1881-maximum-value-after-insertion) |
 ## String Matching
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/tanmayagrawal01/DSA/tree/master/0670-maximum-swap) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1881-maximum-value-after-insertion](https://github.com/tanmayagrawal01/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 ## Game Theory
 |  |
