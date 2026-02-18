@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tanmayagrawal01/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/tanmayagrawal01/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3827-count-monobit-integers](https://github.com/tanmayagrawal01/DSA/tree/master/3827-count-monobit-integers) |
