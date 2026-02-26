@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1732-find-the-highest-altitude](https://github.com/tanmayagrawal01/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tanmayagrawal01/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3827-count-monobit-integers](https://github.com/tanmayagrawal01/DSA/tree/master/3827-count-monobit-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/tanmayagrawal01/DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
