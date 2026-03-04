@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
+| [0397-integer-replacement](https://github.com/tanmayagrawal01/DSA/tree/master/0397-integer-replacement) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanmayagrawal01/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tanmayagrawal01/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0397-integer-replacement](https://github.com/tanmayagrawal01/DSA/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tanmayagrawal01/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/tanmayagrawal01/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/tanmayagrawal01/DSA/tree/master/0397-integer-replacement) |
 | [0670-maximum-swap](https://github.com/tanmayagrawal01/DSA/tree/master/0670-maximum-swap) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/tanmayagrawal01/DSA/tree/master/1732-find-the-highest-altitude) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/tanmayagrawal01/DSA/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
