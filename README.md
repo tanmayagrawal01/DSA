@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0624-maximum-distance-in-arrays](https://github.com/tanmayagrawal01/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/tanmayagrawal01/DSA/tree/master/0397-integer-replacement) |
+| [0624-maximum-distance-in-arrays](https://github.com/tanmayagrawal01/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/tanmayagrawal01/DSA/tree/master/0670-maximum-swap) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
