@@ -7,7 +7,6 @@ class Solution {
             int a=n&1;
             n>>=1;
             if(a==0) ans|=(1<<i);
-            // ans<<=1;
             i++;
             System.out.println(ans);
         }
