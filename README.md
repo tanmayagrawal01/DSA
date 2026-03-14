@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tanmayagrawal01/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/tanmayagrawal01/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/tanmayagrawal01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/tanmayagrawal01/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tanmayagrawal01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/tanmayagrawal01/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Memoization
 |  |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/tanmayagrawal01/DSA/tree/master/0841-keys-and-rooms) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/tanmayagrawal01/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
