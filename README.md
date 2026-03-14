@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tanmayagrawal01/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayagrawal01/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1881-maximum-value-after-insertion](https://github.com/tanmayagrawal01/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [1980-find-unique-binary-string](https://github.com/tanmayagrawal01/DSA/tree/master/1980-find-unique-binary-string) |
 ## String Matching
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmayagrawal01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1138-alphabet-board-path](https://github.com/tanmayagrawal01/DSA/tree/master/1138-alphabet-board-path) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayagrawal01/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/tanmayagrawal01/DSA/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 ## Sliding Window
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayagrawal01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmayagrawal01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayagrawal01/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayagrawal01/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
