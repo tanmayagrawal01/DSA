@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/tanmayagrawal01/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/tanmayagrawal01/DSA/tree/master/0686-repeated-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/tanmayagrawal01/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1138-alphabet-board-path](https://github.com/tanmayagrawal01/DSA/tree/master/1138-alphabet-board-path) |
 | [1143-longest-common-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayagrawal01/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/tanmayagrawal01/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tanmayagrawal01/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
