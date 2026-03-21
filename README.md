@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/tanmayagrawal01/DSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmayagrawal01/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tanmayagrawal01/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/tanmayagrawal01/DSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmayagrawal01/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/tanmayagrawal01/DSA/tree/master/1609-even-odd-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,8 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/tanmayagrawal01/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/tanmayagrawal01/DSA/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tanmayagrawal01/DSA/tree/master/0303-range-sum-query-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
