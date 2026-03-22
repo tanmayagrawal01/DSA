@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Counting
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1881-maximum-value-after-insertion](https://github.com/tanmayagrawal01/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Game Theory
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/tanmayagrawal01/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/tanmayagrawal01/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Design
 |  |
 | ------- |
@@ -256,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
