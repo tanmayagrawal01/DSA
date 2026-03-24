@@ -1,6 +1,5 @@
 class Solution {
     public String replaceWords(List<String> dictionary, String sentence) {
-        StringBuilder sb=new StringBuilder();
         HashSet<String>set=new HashSet<>(dictionary);
         String words[]=sentence.split(" ");
         HashSet<Integer>lengths=new HashSet<>();
