@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/tanmayagrawal01/DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tanmayagrawal01/DSA/tree/master/0127-word-ladder) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmayagrawal01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/tanmayagrawal01/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [0686-repeated-string-match](https://github.com/tanmayagrawal01/DSA/tree/master/0686-repeated-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tanmayagrawal01/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmayagrawal01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [1138-alphabet-board-path](https://github.com/tanmayagrawal01/DSA/tree/master/1138-alphabet-board-path) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayagrawal01/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/tanmayagrawal01/DSA/tree/master/1980-find-unique-binary-string) |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
