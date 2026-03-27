@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/tanmayagrawal01/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2906-construct-product-matrix](https://github.com/tanmayagrawal01/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/tanmayagrawal01/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmayagrawal01/DSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanmayagrawal01/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmayagrawal01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/tanmayagrawal01/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmayagrawal01/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanmayagrawal01/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Graph Theory
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
+## Simulation
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
