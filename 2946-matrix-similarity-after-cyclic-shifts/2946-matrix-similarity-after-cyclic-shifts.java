@@ -7,17 +7,12 @@ class Solution {
         for(int i=0;i<m;i++){
             if(i%2==0){
                 for(int j=0;j<n;j++){
-                    grid[i][j] = mat[i][(j + k) % n];
+                    if(mat[i][j]!=mat[i][(j + k) % n]) return false;
                 }
             }else{
                 for(int j=k;j<k+n;j++){
-                    grid[i][j%n]=mat[i][j-k];
+                    if(mat[i][j%n]!=mat[i][j-k]) return false;
                 }
-            }
-        }
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]!=mat[i][j]) return false;
             }
         }
         return true;
