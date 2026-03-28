@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanmayagrawal01/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [1138-alphabet-board-path](https://github.com/tanmayagrawal01/DSA/tree/master/1138-alphabet-board-path) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayagrawal01/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/tanmayagrawal01/DSA/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/tanmayagrawal01/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/tanmayagrawal01/DSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmayagrawal01/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1609-even-odd-tree](https://github.com/tanmayagrawal01/DSA/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/tanmayagrawal01/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/tanmayagrawal01/DSA/tree/master/0841-keys-and-rooms) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tanmayagrawal01/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Design
