@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tanmayagrawal01/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1390-four-divisors](https://github.com/tanmayagrawal01/DSA/tree/master/1390-four-divisors) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -305,5 +306,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tanmayagrawal01/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
