@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayagrawal01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/tanmayagrawal01/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/tanmayagrawal01/DSA/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/tanmayagrawal01/DSA/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/tanmayagrawal01/DSA/tree/master/0127-word-ladder) |
 | [0227-basic-calculator-ii](https://github.com/tanmayagrawal01/DSA/tree/master/0227-basic-calculator-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmayagrawal01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
