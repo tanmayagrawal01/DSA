@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tanmayagrawal01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/tanmayagrawal01/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/tanmayagrawal01/DSA/tree/master/0494-target-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/tanmayagrawal01/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayagrawal01/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/tanmayagrawal01/DSA/tree/master/0227-basic-calculator-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/tanmayagrawal01/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tanmayagrawal01/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -177,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayagrawal01/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/tanmayagrawal01/DSA/tree/master/0397-integer-replacement) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0624-maximum-distance-in-arrays](https://github.com/tanmayagrawal01/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/tanmayagrawal01/DSA/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/tanmayagrawal01/DSA/tree/master/0738-monotone-increasing-digits) |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/tanmayagrawal01/DSA/tree/master/0027-remove-element) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanmayagrawal01/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
