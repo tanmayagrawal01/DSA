@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmayagrawal01/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/tanmayagrawal01/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanmayagrawal01/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tanmayagrawal01/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanmayagrawal01/DSA/tree/master/0191-number-of-1-bits) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tanmayagrawal01/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/tanmayagrawal01/DSA/tree/master/0657-robot-return-to-origin) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tanmayagrawal01/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tanmayagrawal01/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
