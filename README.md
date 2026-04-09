@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tanmayagrawal01/DSA/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/tanmayagrawal01/DSA/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/tanmayagrawal01/DSA/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/tanmayagrawal01/DSA/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/tanmayagrawal01/DSA/tree/master/0797-all-paths-from-source-to-target) |
