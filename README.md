@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/tanmayagrawal01/DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/tanmayagrawal01/DSA/tree/master/0739-daily-temperatures) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tanmayagrawal01/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tanmayagrawal01/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/tanmayagrawal01/DSA/tree/master/0027-remove-element) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanmayagrawal01/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Trie
 |  |
