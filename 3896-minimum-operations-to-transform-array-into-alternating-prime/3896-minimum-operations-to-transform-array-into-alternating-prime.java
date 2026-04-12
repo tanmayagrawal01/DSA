@@ -19,12 +19,12 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int x=nums[i];
             if(i%2==0){
-                while(x<prime.length && !prime[x]){
+                while(!prime[x]){
                     ans++;
                     x++;
                 }
             }else{
-                while(x<prime.length &&prime[x]){
+                while(prime[x]){
                     ans++;
                     x++;
                 }
