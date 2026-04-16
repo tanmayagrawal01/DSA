@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tanmayagrawal01/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/tanmayagrawal01/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3488-closest-equal-element-queries](https://github.com/tanmayagrawal01/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmayagrawal01/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/tanmayagrawal01/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanmayagrawal01/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/tanmayagrawal01/DSA/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanmayagrawal01/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/tanmayagrawal01/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tanmayagrawal01/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sliding Window
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3488-closest-equal-element-queries](https://github.com/tanmayagrawal01/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Stack
 |  |
 | ------- |
