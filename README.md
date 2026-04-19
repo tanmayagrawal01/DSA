@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tanmayagrawal01/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/tanmayagrawal01/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanmayagrawal01/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmayagrawal01/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmayagrawal01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/tanmayagrawal01/DSA/tree/master/1980-find-unique-binary-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmayagrawal01/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/tanmayagrawal01/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Stack
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tanmayagrawal01/DSA/tree/master/0027-remove-element) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmayagrawal01/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tanmayagrawal01/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
