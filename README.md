@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1881-maximum-value-after-insertion](https://github.com/tanmayagrawal01/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [1980-find-unique-binary-string](https://github.com/tanmayagrawal01/DSA/tree/master/1980-find-unique-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tanmayagrawal01/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/tanmayagrawal01/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanmayagrawal01/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tanmayagrawal01/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/tanmayagrawal01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayagrawal01/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2833-furthest-point-from-origin](https://github.com/tanmayagrawal01/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
