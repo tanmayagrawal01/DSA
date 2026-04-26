@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tanmayagrawal01/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/tanmayagrawal01/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanmayagrawal01/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/tanmayagrawal01/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanmayagrawal01/DSA/tree/master/0058-length-of-last-word) |
 | [0127-word-ladder](https://github.com/tanmayagrawal01/DSA/tree/master/0127-word-ladder) |
 | [0227-basic-calculator-ii](https://github.com/tanmayagrawal01/DSA/tree/master/0227-basic-calculator-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanmayagrawal01/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayagrawal01/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/tanmayagrawal01/DSA/tree/master/0227-basic-calculator-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/tanmayagrawal01/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
