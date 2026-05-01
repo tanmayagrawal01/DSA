@@ -298,11 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/tanmayagrawal01/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tanmayagrawal01/DSA/tree/master/0050-powx-n) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/tanmayagrawal01/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [1472-design-browser-history](https://github.com/tanmayagrawal01/DSA/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/tanmayagrawal01/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
