@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tanmayagrawal01/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/tanmayagrawal01/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/tanmayagrawal01/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/tanmayagrawal01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayagrawal01/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmayagrawal01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayagrawal01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tanmayagrawal01/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanmayagrawal01/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/tanmayagrawal01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/tanmayagrawal01/DSA/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanmayagrawal01/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tanmayagrawal01/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/tanmayagrawal01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanmayagrawal01/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmayagrawal01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/tanmayagrawal01/DSA/tree/master/2906-construct-product-matrix) |
