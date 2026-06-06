@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayagrawal01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmayagrawal01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/tanmayagrawal01/DSA/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmayagrawal01/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/tanmayagrawal01/DSA/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmayagrawal01/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/tanmayagrawal01/DSA/tree/master/2540-minimum-common-value) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/tanmayagrawal01/DSA/tree/master/1472-design-browser-history) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmayagrawal01/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
