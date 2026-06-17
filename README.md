@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanmayagrawal01/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tanmayagrawal01/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tanmayagrawal01/DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3612-process-string-with-special-operations-i](https://github.com/tanmayagrawal01/DSA/tree/master/3612-process-string-with-special-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tanmayagrawal01/DSA/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2390-removing-stars-from-a-string](https://github.com/tanmayagrawal01/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/tanmayagrawal01/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/tanmayagrawal01/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tanmayagrawal01/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Doubly-Linked List
 |  |
