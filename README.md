@@ -424,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmayagrawal01/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/tanmayagrawal01/DSA/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
