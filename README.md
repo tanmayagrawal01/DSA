@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tanmayagrawal01/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tanmayagrawal01/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/tanmayagrawal01/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/tanmayagrawal01/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanmayagrawal01/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmayagrawal01/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tanmayagrawal01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/tanmayagrawal01/DSA/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/tanmayagrawal01/DSA/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1833-maximum-ice-cream-bars](https://github.com/tanmayagrawal01/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/tanmayagrawal01/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2784-check-if-array-is-good](https://github.com/tanmayagrawal01/DSA/tree/master/2784-check-if-array-is-good) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/tanmayagrawal01/DSA/tree/master/0738-monotone-increasing-digits) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/tanmayagrawal01/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tanmayagrawal01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/tanmayagrawal01/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1881-maximum-value-after-insertion](https://github.com/tanmayagrawal01/DSA/tree/master/1881-maximum-value-after-insertion) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tanmayagrawal01/DSA/tree/master/2007-find-original-array-from-doubled-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmayagrawal01/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/tanmayagrawal01/DSA/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/tanmayagrawal01/DSA/tree/master/0184-department-highest-salary) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/tanmayagrawal01/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
