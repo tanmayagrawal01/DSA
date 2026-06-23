@@ -1,9 +1,9 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
-        int cnt[]=new int[26];
+        HashMap<Character,Integer>map=new HashMap<>();
         for(char i:text.toCharArray()){
-            cnt[i-'a']++;
+            map.put(i,map.getOrDefault(i,0)+1);
         }
-        return Math.min(cnt['b'-'a'],Math.min(cnt[0],Math.min(cnt['l'-'a']/2,Math.min(cnt['o'-'a']/2,cnt['n'-'a']))));
+        return Math.min(map.getOrDefault('b',0),Math.min(map.getOrDefault('a',0),Math.min(map.getOrDefault('l',0)/2,Math.min(map.getOrDefault('o',0)/2,map.getOrDefault('n',0)))));
     }
 }
