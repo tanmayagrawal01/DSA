@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/tanmayagrawal01/DSA/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/tanmayagrawal01/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/tanmayagrawal01/DSA/tree/master/0584-find-customer-referee) |
+| [0620-not-boring-movies](https://github.com/tanmayagrawal01/DSA/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/tanmayagrawal01/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/tanmayagrawal01/DSA/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/tanmayagrawal01/DSA/tree/master/1280-students-and-examinations) |
