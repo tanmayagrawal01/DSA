@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/tanmayagrawal01/DSA/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/tanmayagrawal01/DSA/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/tanmayagrawal01/DSA/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/tanmayagrawal01/DSA/tree/master/0196-delete-duplicate-emails) |
