@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmayagrawal01/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tanmayagrawal01/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tanmayagrawal01/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanmayagrawal01/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayagrawal01/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayagrawal01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/tanmayagrawal01/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/tanmayagrawal01/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tanmayagrawal01/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanmayagrawal01/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tanmayagrawal01/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanmayagrawal01/DSA/tree/master/0058-length-of-last-word) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tanmayagrawal01/DSA/tree/master/0014-longest-common-prefix) |
 | [0648-replace-words](https://github.com/tanmayagrawal01/DSA/tree/master/0648-replace-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tanmayagrawal01/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/tanmayagrawal01/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
